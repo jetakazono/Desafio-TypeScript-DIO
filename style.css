@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(211, 251, 238);
+
+}
+
+button{
+    border-radius: 5px;
+    width: 200px;
+    height: 40px;
+    border: 1px solid blueviolet;
+    background-color: rgb(205, 170, 238);
+    color: white ;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgb(228, 162, 240);
+}
+input{
+    border-radius: 5px;
+    width: 200px;
+    height: 30px;
+    border: 1px solid blueviolet;
+}
